@@ -1,4 +1,4 @@
-# EduBlitz Medical B2B ERP System
+# EduBlitz Medical B2B ERP System made by VJ
 
 A production-grade **Medical Domain B2B ERP** platform for hospitals, distributors, and medical vendors. Built with a microservices architecture on AWS infrastructure.
 
